@@ -4,7 +4,7 @@ Compilado de todos projetos desenvolvidos durante o BootCamp TQI FullStack devel
 ----------------Resumo dos projetos--------------
 
 
--------Desafio de projeto 0-----------
+-------Desafio de projeto 0----------- <br/>
 Criar o primeiro repositório
 
 Principais competências
