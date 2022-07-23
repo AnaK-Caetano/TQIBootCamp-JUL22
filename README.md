@@ -46,7 +46,14 @@ Resumo: Um projeto clone da Netflix a partir da API TMDB. A aplicação apresent
 Principais competências<br/>
 1. React: Criação de apps, componentização, UI, integração com API.<br/> 
 
+observação: Caso tenha dificuldade de acessar o repositório, aqui tem um outro repositório com o mesmo projeto (Backup). https://github.com/AnaK-Caetano/Netflix-com-reactrj.git
+
+
+
 <br/>
 -------Desafio de projeto 4-----------<br/>
 Criar um Banco digital com Java. 
+<br/>
+Resumo:
 
+Principais competências<br/>
