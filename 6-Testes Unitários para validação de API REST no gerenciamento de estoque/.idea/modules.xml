@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/6-Testes Unitários para validação de API REST no gerenciamento de estoque.iml" filepath="$PROJECT_DIR$/.idea/6-Testes Unitários para validação de API REST no gerenciamento de estoque.iml" />
+      <module fileurl="file://$PROJECT_DIR$/beer_api/beerstock.iml" filepath="$PROJECT_DIR$/beer_api/beerstock.iml" />
+    </modules>
+  </component>
+</project>
