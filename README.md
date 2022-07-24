@@ -55,10 +55,10 @@ observação: Caso tenha dificuldade de acessar o repositório, aqui tem um outr
 Criar um Banco digital com Java. 
 <br/>
 
-"Um banco oferece aos seus clientes dois tipos de contas (corrente e poupança) com as funcionalidades de depósito, saque e transferência apenas entre contas da própria instituição.”</br>
+"Um banco oferece aos seus clientes dois tipos de contas (corrente e poupança) com as funcionalidades de depósito, saque e transferência apenas entre contas da própria instituição.”<br/>
 
-Resumo: Projeto de banco digital onde o cliente pode criar uma conta, consultar saldo e realizar transferências entre contas do banco.
+Resumo: Projeto de banco digital onde o cliente pode criar uma conta, consultar saldo e realizar transferências entre contas do banco.<br/>
 
-Principais competências</br>
-1.Java
-2.Orientação a objetos
+Principais competências<br/>
+1.Java<br/>
+2.Orientação a objetos<br/>
